@@ -1,0 +1,5 @@
+# Never commit real values. Prefer wrangler secret put in production.
+TWILIO_AUTH_TOKEN=replace-me
+BOT_WEBHOOKS={"friday":"https://example.invalid/friday-webhook"}
+OPENAI_API_KEY=
+WEBHOOK_BEARER_TOKEN=

@@ -1,0 +1,17 @@
+[
+  {"key":"friday","name":"Friday","id":"35aec904-922d-4d43-95a2-92ea156fd7ac","dtmf":"1","aliases":[]},
+  {"key":"heirloom","name":"Hierloom / Atlas","id":"aeeeaffe-52aa-46ff-959d-d2b29efff291","dtmf":"2","aliases":["atlas","heirloom"]},
+  {"key":"thursday","name":"Thursday","id":"e830b0d9-6df1-45f7-a782-e700dccaf68e","dtmf":"3","aliases":[]},
+  {"key":"saturday","name":"Saturday","id":"8734cc5e-713f-4fa1-b0cb-a5cad48e5725","dtmf":"4","aliases":[]},
+  {"key":"stack","name":"Stack","id":"1cc66af6-73b9-446d-98e5-d2babd52c68a","dtmf":"5","aliases":[]},
+  {"key":"tiktok","name":"TikTok","id":"32c5c673-0124-411e-b315-bb3ba2387c73","dtmf":"6","aliases":["tick tock"]},
+  {"key":"instagram","name":"Instagram","id":"bd67d013-4414-441f-ace3-302e3413586f","dtmf":"7","aliases":["insta"]},
+  {"key":"threads","name":"Threads","id":"e1c1d3ea-0cc3-4330-b63a-6bfb680ad73a","dtmf":"8","aliases":[]},
+  {"key":"substack","name":"Substack","id":"2a64303d-61ec-48ab-a238-700d05b4a9ae","dtmf":"9","aliases":[]},
+  {"key":"linkedin","name":"LinkedIn Leads","id":"4c2f85dc-fd3e-448a-9100-28dc86a4cc9c","dtmf":"10","aliases":["linked in","linkedin leads"]},
+  {"key":"facebook","name":"Facebook Leads","id":"cffe6b6c-16e4-49f3-9075-e9459d6d6e1e","dtmf":"11","aliases":["facebook leads"]},
+  {"key":"pitlane","name":"Pitlane / Supercar Leads","id":"3610d591-4b4d-4b05-93a1-ed9fff3f1212","dtmf":"12","aliases":["supercar","supercar leads"]},
+  {"key":"sayit","name":"Say it","id":"3cedec72-5b0c-4620-966b-b166890c629c","dtmf":"13","aliases":["say it"]},
+  {"key":"rp","name":"RP / Rosemount Protect","id":"8d205573-ccbd-452a-9f34-9c01d00e2ea3","dtmf":"14","aliases":["r p","rosemount"]},
+  {"key":"forge","name":"Forge","id":"9dfd031d-bcad-4cad-8c64-584eff042be2","dtmf":"15","aliases":["the different repos"]}
+]
